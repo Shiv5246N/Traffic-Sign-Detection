@@ -82,10 +82,9 @@ cd Road-Traffic-Sign-Recognition
 
 👨‍💻 Author
 
-Sunil Prajapat
+Shivang Raj Saxena
 📍 India
-📧 Email: sunilprajapat2907@gmail.com
-🔗 GitHub: sunilprajapat1408
+📧 Email: shivangrajsaxena1403@gmail.com
+🔗 GitHub: Shiv5246N
 
-🔗 LinkedIn: linkedin.com/in/sunil-prajapat-878663282
 
